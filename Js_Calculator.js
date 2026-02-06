@@ -12,6 +12,7 @@ function multiply(num1, num2) {
     let multResult = num1 * num2;
     return multResult;
 };
+
 function divide(num1, num2) {
     let divResult = num1 / num2;
     return divResult;
